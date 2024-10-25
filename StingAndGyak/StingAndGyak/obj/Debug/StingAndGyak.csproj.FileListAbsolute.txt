@@ -1,0 +1,7 @@
+Z:\Asztali alkalmazások gyak 11A_2\StingAndGyak\StingAndGyak\bin\Debug\StingAndGyak.exe.config
+Z:\Asztali alkalmazások gyak 11A_2\StingAndGyak\StingAndGyak\bin\Debug\StingAndGyak.exe
+Z:\Asztali alkalmazások gyak 11A_2\StingAndGyak\StingAndGyak\bin\Debug\StingAndGyak.pdb
+Z:\Asztali alkalmazások gyak 11A_2\StingAndGyak\StingAndGyak\obj\Debug\StingAndGyak.csproj.AssemblyReference.cache
+Z:\Asztali alkalmazások gyak 11A_2\StingAndGyak\StingAndGyak\obj\Debug\StingAndGyak.csproj.CoreCompileInputs.cache
+Z:\Asztali alkalmazások gyak 11A_2\StingAndGyak\StingAndGyak\obj\Debug\StingAndGyak.exe
+Z:\Asztali alkalmazások gyak 11A_2\StingAndGyak\StingAndGyak\obj\Debug\StingAndGyak.pdb

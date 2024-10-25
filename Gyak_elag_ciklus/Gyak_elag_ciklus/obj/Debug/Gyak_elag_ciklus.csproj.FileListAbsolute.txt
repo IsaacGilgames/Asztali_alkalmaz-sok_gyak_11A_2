@@ -1,0 +1,14 @@
+C:\Users\i.martin\source\repos\Gyak_elag_ciklus\Gyak_elag_ciklus\bin\Debug\Gyak_elag_ciklus.exe.config
+C:\Users\i.martin\source\repos\Gyak_elag_ciklus\Gyak_elag_ciklus\bin\Debug\Gyak_elag_ciklus.exe
+C:\Users\i.martin\source\repos\Gyak_elag_ciklus\Gyak_elag_ciklus\bin\Debug\Gyak_elag_ciklus.pdb
+C:\Users\i.martin\source\repos\Gyak_elag_ciklus\Gyak_elag_ciklus\obj\Debug\Gyak_elag_ciklus.csproj.AssemblyReference.cache
+C:\Users\i.martin\source\repos\Gyak_elag_ciklus\Gyak_elag_ciklus\obj\Debug\Gyak_elag_ciklus.csproj.CoreCompileInputs.cache
+C:\Users\i.martin\source\repos\Gyak_elag_ciklus\Gyak_elag_ciklus\obj\Debug\Gyak_elag_ciklus.exe
+C:\Users\i.martin\source\repos\Gyak_elag_ciklus\Gyak_elag_ciklus\obj\Debug\Gyak_elag_ciklus.pdb
+Z:\Asztali alkalmazások gyak 11A_2\Gyak_elag_ciklus\Gyak_elag_ciklus\bin\Debug\Gyak_elag_ciklus.exe.config
+Z:\Asztali alkalmazások gyak 11A_2\Gyak_elag_ciklus\Gyak_elag_ciklus\bin\Debug\Gyak_elag_ciklus.exe
+Z:\Asztali alkalmazások gyak 11A_2\Gyak_elag_ciklus\Gyak_elag_ciklus\bin\Debug\Gyak_elag_ciklus.pdb
+Z:\Asztali alkalmazások gyak 11A_2\Gyak_elag_ciklus\Gyak_elag_ciklus\obj\Debug\Gyak_elag_ciklus.csproj.AssemblyReference.cache
+Z:\Asztali alkalmazások gyak 11A_2\Gyak_elag_ciklus\Gyak_elag_ciklus\obj\Debug\Gyak_elag_ciklus.csproj.CoreCompileInputs.cache
+Z:\Asztali alkalmazások gyak 11A_2\Gyak_elag_ciklus\Gyak_elag_ciklus\obj\Debug\Gyak_elag_ciklus.exe
+Z:\Asztali alkalmazások gyak 11A_2\Gyak_elag_ciklus\Gyak_elag_ciklus\obj\Debug\Gyak_elag_ciklus.pdb

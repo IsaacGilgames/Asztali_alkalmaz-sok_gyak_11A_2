@@ -1,0 +1,7 @@
+Z:\Asztali alkalmazások gyak 11A_2\ConversionAndSubstring\ConversionAndSubstring\bin\Debug\ConversionAndSubstring.exe.config
+Z:\Asztali alkalmazások gyak 11A_2\ConversionAndSubstring\ConversionAndSubstring\bin\Debug\ConversionAndSubstring.exe
+Z:\Asztali alkalmazások gyak 11A_2\ConversionAndSubstring\ConversionAndSubstring\bin\Debug\ConversionAndSubstring.pdb
+Z:\Asztali alkalmazások gyak 11A_2\ConversionAndSubstring\ConversionAndSubstring\obj\Debug\ConversionAndSubstring.csproj.AssemblyReference.cache
+Z:\Asztali alkalmazások gyak 11A_2\ConversionAndSubstring\ConversionAndSubstring\obj\Debug\ConversionAndSubstring.csproj.CoreCompileInputs.cache
+Z:\Asztali alkalmazások gyak 11A_2\ConversionAndSubstring\ConversionAndSubstring\obj\Debug\ConversionAndSubstring.exe
+Z:\Asztali alkalmazások gyak 11A_2\ConversionAndSubstring\ConversionAndSubstring\obj\Debug\ConversionAndSubstring.pdb
