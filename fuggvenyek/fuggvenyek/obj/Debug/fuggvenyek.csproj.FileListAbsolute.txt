@@ -1,0 +1,7 @@
+Z:\Asztali alkalmazások gyak 11A_2\fuggvenyek\fuggvenyek\bin\Debug\fuggvenyek.exe.config
+Z:\Asztali alkalmazások gyak 11A_2\fuggvenyek\fuggvenyek\bin\Debug\fuggvenyek.exe
+Z:\Asztali alkalmazások gyak 11A_2\fuggvenyek\fuggvenyek\bin\Debug\fuggvenyek.pdb
+Z:\Asztali alkalmazások gyak 11A_2\fuggvenyek\fuggvenyek\obj\Debug\fuggvenyek.csproj.AssemblyReference.cache
+Z:\Asztali alkalmazások gyak 11A_2\fuggvenyek\fuggvenyek\obj\Debug\fuggvenyek.csproj.CoreCompileInputs.cache
+Z:\Asztali alkalmazások gyak 11A_2\fuggvenyek\fuggvenyek\obj\Debug\fuggvenyek.exe
+Z:\Asztali alkalmazások gyak 11A_2\fuggvenyek\fuggvenyek\obj\Debug\fuggvenyek.pdb

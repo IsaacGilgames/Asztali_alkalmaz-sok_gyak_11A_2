@@ -1,0 +1,7 @@
+Z:\Asztali alkalmazások gyak 11A_1\HaziFeladatMegoldasok\HaziFeladatMegoldasok\bin\Debug\HaziFeladatMegoldasok.exe.config
+Z:\Asztali alkalmazások gyak 11A_1\HaziFeladatMegoldasok\HaziFeladatMegoldasok\bin\Debug\HaziFeladatMegoldasok.exe
+Z:\Asztali alkalmazások gyak 11A_1\HaziFeladatMegoldasok\HaziFeladatMegoldasok\bin\Debug\HaziFeladatMegoldasok.pdb
+Z:\Asztali alkalmazások gyak 11A_1\HaziFeladatMegoldasok\HaziFeladatMegoldasok\obj\Debug\HaziFeladatMegoldasok.csproj.AssemblyReference.cache
+Z:\Asztali alkalmazások gyak 11A_1\HaziFeladatMegoldasok\HaziFeladatMegoldasok\obj\Debug\HaziFeladatMegoldasok.csproj.CoreCompileInputs.cache
+Z:\Asztali alkalmazások gyak 11A_1\HaziFeladatMegoldasok\HaziFeladatMegoldasok\obj\Debug\HaziFeladatMegoldasok.exe
+Z:\Asztali alkalmazások gyak 11A_1\HaziFeladatMegoldasok\HaziFeladatMegoldasok\obj\Debug\HaziFeladatMegoldasok.pdb
